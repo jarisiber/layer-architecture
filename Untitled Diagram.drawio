@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T10:24:17.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rPodWMQ24Kf9SSu9zJts" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T10:32:20.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lSOmowug7JbcZ1AfK8MK" version="22.1.5" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1354" dy="-1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -501,6 +501,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1655" y="2960" as="sourcePoint" />
             <mxPoint x="1670" y="2950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cpwvv4Ra3MdJf3Jbp_90-237" value="BeanUtils: BCryptPasswordEncoder" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1480" y="2290" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpwvv4Ra3MdJf3Jbp_90-238" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="Cpwvv4Ra3MdJf3Jbp_90-237" parent="1" source="Cpwvv4Ra3MdJf3Jbp_90-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="2332" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
