@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T03:43:25.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HI-R2aNjpauhW0AqjylB" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T03:59:19.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9zXDL5TkS2vnmZVHcHbE" version="22.1.5" type="github">
   <diagram name="Helicopter view" id="Cxyv5lRNddG8r2s_uuZ9">
     <mxGraphModel dx="2050" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOkl6GA5OP9CNW0X1iQI-23" value="Controller" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tOkl6GA5OP9CNW0X1iQI-23" value="Controller" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="200" height="200" as="geometry">
             <mxRectangle x="100" y="80" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOkl6GA5OP9CNW0X1iQI-26" value="Services" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tOkl6GA5OP9CNW0X1iQI-26" value="Services" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="200" height="200" as="geometry">
             <mxRectangle x="400" y="80" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
@@ -61,7 +61,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOkl6GA5OP9CNW0X1iQI-28" value="Repository" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tOkl6GA5OP9CNW0X1iQI-28" value="Repository" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="700" y="80" width="200" height="200" as="geometry">
             <mxRectangle x="700" y="80" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
