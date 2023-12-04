@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T03:59:19.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9zXDL5TkS2vnmZVHcHbE" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T03:59:53.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jkEbjvLR3979WlnBJp5l" version="22.1.5" type="github">
   <diagram name="Helicopter view" id="Cxyv5lRNddG8r2s_uuZ9">
     <mxGraphModel dx="2050" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOkl6GA5OP9CNW0X1iQI-30" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="tOkl6GA5OP9CNW0X1iQI-30" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1010" y="96" width="100" height="162" as="geometry" />
         </mxCell>
         <mxCell id="tOkl6GA5OP9CNW0X1iQI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="tOkl6GA5OP9CNW0X1iQI-28" target="tOkl6GA5OP9CNW0X1iQI-30">
