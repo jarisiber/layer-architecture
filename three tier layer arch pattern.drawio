@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T04:07:09.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="scAh1yHcMTpQ4IylID8u" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T04:08:08.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5mNECHfFlZN2Nan7FATP" version="22.1.5" type="github">
   <diagram name="Helicopter view" id="Cxyv5lRNddG8r2s_uuZ9">
     <mxGraphModel dx="2050" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
             <mxRectangle x="700" y="80" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOkl6GA5OP9CNW0X1iQI-44" value="DAO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="tOkl6GA5OP9CNW0X1iQI-28">
+        <mxCell id="tOkl6GA5OP9CNW0X1iQI-44" value="DAO: CRUDS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="tOkl6GA5OP9CNW0X1iQI-28">
           <mxGeometry x="40" y="18" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tOkl6GA5OP9CNW0X1iQI-45" value="+ ClassRepositories&lt;br&gt;+ ClassRepositoriesImpl" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tOkl6GA5OP9CNW0X1iQI-44">
