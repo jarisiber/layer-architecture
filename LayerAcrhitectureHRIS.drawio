@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T03:31:19.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="g-J6TbzLRlxhlhfjCSN_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T03:33:30.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JuQUSOKbXp5dKk8Z_HTa" version="22.1.5" type="github">
   <diagram name="Page-1" id="UCrYf236vS9NTEXYpIBE">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-1" value="Controller" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-2" value="Service" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-3" value="Repository" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-4" value="&lt;h1&gt;HRIS Layer Acrhitecture&lt;/h1&gt;&lt;p&gt;Memuat dependency antar package dan class.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-80" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-5" value="MySql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="80" width="170" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
