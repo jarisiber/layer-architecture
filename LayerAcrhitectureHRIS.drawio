@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T13:49:56.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xMy5uu4R3kmI1ZJgLPf_" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-06T13:51:48.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UJi0CCKytbDzVoBvrT1R" version="22.1.5" type="github" pages="5">
   <diagram name="Layer Architecture" id="UCrYf236vS9NTEXYpIBE">
     <mxGraphModel dx="2095" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
         </mxCell>
         <mxCell id="HUeQ17GyRzUXmErAIR5Y-5" value="Employee" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="96" y="60" width="100" height="30" as="geometry">
-            <mxRectangle x="180" y="70" width="160" height="86" as="alternateBounds" />
+            <mxRectangle x="96" y="60" width="160" height="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HUeQ17GyRzUXmErAIR5Y-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HUeQ17GyRzUXmErAIR5Y-5">
@@ -104,6 +104,20 @@
               <mxPoint x="120" y="20" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HUeQ17GyRzUXmErAIR5Y-14" value="ResponseData" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="96" y="100" width="100" height="30" as="geometry">
+            <mxRectangle x="96" y="100" width="160" height="86" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUeQ17GyRzUXmErAIR5Y-15" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HUeQ17GyRzUXmErAIR5Y-14">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HUeQ17GyRzUXmErAIR5Y-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="HUeQ17GyRzUXmErAIR5Y-14">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="HUeQ17GyRzUXmErAIR5Y-17" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HUeQ17GyRzUXmErAIR5Y-14">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
