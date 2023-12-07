@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T14:36:09.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZawgX5FmKc05d6qiD-xN" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-07T14:36:35.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jwiNefG1U1oxrgttGfc4" version="22.1.5" type="github" pages="5">
   <diagram name="Layer Architecture" id="UCrYf236vS9NTEXYpIBE">
     <mxGraphModel dx="2095" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="ccGiKAOtUAh71gRQas-K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="3Y9ApGFQtoccB5MLMESt-1" target="3Y9ApGFQtoccB5MLMESt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Y9ApGFQtoccB5MLMESt-1" value="Controller" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-1" value="Controller" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="241" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HUeQ17GyRzUXmErAIR5Y-10" value="Controller" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Y9ApGFQtoccB5MLMESt-1">
@@ -28,13 +28,13 @@
         <mxCell id="ccGiKAOtUAh71gRQas-K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="3Y9ApGFQtoccB5MLMESt-2" target="3Y9ApGFQtoccB5MLMESt-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Y9ApGFQtoccB5MLMESt-2" value="Service" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-2" value="Service" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="241" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ccGiKAOtUAh71gRQas-K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="3Y9ApGFQtoccB5MLMESt-3" target="3Y9ApGFQtoccB5MLMESt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Y9ApGFQtoccB5MLMESt-3" value="Repository" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3Y9ApGFQtoccB5MLMESt-3" value="Repository" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="241" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="3Y9ApGFQtoccB5MLMESt-4" value="&lt;h1&gt;HRIS Layer Acrhitecture&lt;/h1&gt;&lt;p&gt;Memuat dependency antar package dan class.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
