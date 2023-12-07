@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T04:57:06.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="knpK7VdcNvdzy9wLB5HO" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-07T12:37:34.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CwBCMN7heHTgO4znsjeh" version="22.1.5" type="github" pages="5">
   <diagram name="Layer Architecture" id="UCrYf236vS9NTEXYpIBE">
     <mxGraphModel dx="2095" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -142,10 +142,10 @@
         <mxCell id="g5q6TM74w6CPrwSbScij-9" value="+ Id&lt;br&gt;+ departmentName" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="g5q6TM74w6CPrwSbScij-8">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g5q6TM74w6CPrwSbScij-10" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="100" width="160" height="120" as="geometry" />
+        <mxCell id="g5q6TM74w6CPrwSbScij-10" value="tbl_branch" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g5q6TM74w6CPrwSbScij-11" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="g5q6TM74w6CPrwSbScij-10">
+        <mxCell id="g5q6TM74w6CPrwSbScij-11" value="+ Id&lt;br&gt;+ address&lt;br&gt;+ branch_name" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="g5q6TM74w6CPrwSbScij-10">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1xjOcd33WlK6ReFqqnaE-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1.006;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="g5q6TM74w6CPrwSbScij-9" target="g5q6TM74w6CPrwSbScij-7">
